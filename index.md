@@ -12,7 +12,7 @@ Postcard Archive is an offline, private archival app for postcard collectors. Th
 
 ## What we collect
 
-**Nothing.** Postcard Archive has no user accounts, no cloud sync, no analytics, no advertising SDKs, no crash reporters that transmit data, and no tracking of any kind.
+**Nothing.** Postcard Archive has no user accounts, no cloud sync, no analytics, no advertising, no crash reporters that transmit data, and no tracking of any kind.
 
 The app does not contact any server we control. It does not contact any third-party server. It does not need an internet connection to function.
 
@@ -43,7 +43,7 @@ The contents and destination of an exported file are entirely under your control
 
 On iOS, the app's data is included in iCloud Backup or Mac/iTunes encrypted backups according to Apple's standard rules for app sandbox data. The data is not synchronised separately by us.
 
-On Android, the app participates in Auto Backup for Apps (Google's standard mechanism) for the local database file. You can turn this off in your device's Backup settings.
+On Android, the app opts out of Google Auto Backup for Apps. The postcard database is not copied to Google's servers by the app, and Android cloud backup is disabled for Postcard Archive. To move or preserve your archive, use the in-app export/backup tools that you control.
 
 ## Children's privacy
 
