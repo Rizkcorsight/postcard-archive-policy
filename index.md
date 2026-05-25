@@ -5,7 +5,7 @@ title: Postcard Archive — Privacy Policy
 
 # Privacy Policy — Postcard Archive
 
-**Effective date:** 2026-05-10
+**Effective date:** 2026-05-25
 
 <!-- policy-translations-start -->
 ## Translations
@@ -45,13 +45,15 @@ You can deny or revoke these permissions at any time in your operating system's 
 
 You can export your archive as a CSV or JSON file from the app's Settings screen. The exported file is written to a local temporary location on your device and offered to you through the system share sheet, where you choose the destination (Files, AirDrop, Mail, another app, etc.).
 
+Postcard Archive Pro can also create a full archive backup file for your own safekeeping. On Android, this backup is a passphrase-protected encrypted `.pcabak` file. The passphrase is chosen by you and is not sent to us. If you share or store that backup elsewhere, that destination's privacy and security practices apply.
+
 The contents and destination of an exported file are entirely under your control. We do not see what you export or where you send it.
 
 ## Backups
 
 On iOS, the app's data is included in iCloud Backup or Mac/iTunes encrypted backups according to Apple's standard rules for app sandbox data. The data is not synchronised separately by us.
 
-On Android, the app opts out of Google Auto Backup for Apps. The postcard database is not copied to Google's servers by the app, and Android cloud backup is disabled for Postcard Archive. To move or preserve your archive, use the in-app export/backup tools that you control.
+On Android, the app opts out of Google Auto Backup for Apps. The postcard database is not copied to Google's servers by the app, and Android cloud backup is disabled for Postcard Archive. To move or preserve your archive, use the in-app export and passphrase-protected encrypted backup tools that you control.
 
 ## Children's privacy
 
