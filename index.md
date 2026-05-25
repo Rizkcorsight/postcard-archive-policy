@@ -6,6 +6,14 @@ title: Postcard Archive — Privacy Policy
 # Privacy Policy — Postcard Archive
 
 **Effective date:** 2026-05-10
+
+<!-- policy-translations-start -->
+## Translations
+
+Translations are provided for convenience. The English policy controls if there is any difference.
+
+[Español](es/) | [Français](fr/) | [Deutsch](de/) | [Italiano](it/) | [日本語](ja/) | [한국어](ko/) | [Português (Brasil)](pt-BR/) | [简体中文](zh-Hans/) | [繁體中文](zh-Hant/) | [العربية](ar/) | [עברית](he/) | [Nederlands](nl/) | [Русский](ru/)
+<!-- policy-translations-end -->
 **Applies to:** Postcard Archive for iOS / iPadOS and Postcard Archive for Android.
 
 Postcard Archive is an offline, private archival app for postcard collectors. This policy explains, plainly, what we do and do not collect.
