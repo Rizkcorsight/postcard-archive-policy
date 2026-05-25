@@ -14,7 +14,7 @@ Translations are provided for convenience. The English policy controls if there 
 
 [Español](es/) | [Français](fr/) | [Deutsch](de/) | [Italiano](it/) | [日本語](ja/) | [한국어](ko/) | [Português (Brasil)](pt-BR/) | [简体中文](zh-Hans/) | [繁體中文](zh-Hant/) | [العربية](ar/) | [עברית](he/) | [Nederlands](nl/) | [Русский](ru/)
 <!-- policy-translations-end -->
-**Applies to:** Postcard Archive for iOS / iPadOS and Postcard Archive for Android.
+**Applies to:** Postcard Archive for iOS / iPadOS / macOS (Mac Catalyst) and Postcard Archive for Android.
 
 Postcard Archive is an offline, private archival app for postcard collectors. This policy explains, plainly, what we do and do not collect.
 
@@ -28,7 +28,7 @@ The app does not contact any server we control. It does not contact any third-pa
 
 Every postcard you add to Postcard Archive — including the front and back images, captions, dates, locations, stamp and postmark notes, condition, themes, transcriptions, and any other field you fill in — is stored only in this app's local storage on your device.
 
-- On iOS, data is stored in a local SwiftData store inside the app's sandbox.
+- On iOS, iPadOS, and macOS (Mac Catalyst), data is stored in a local SwiftData store inside the app's sandbox.
 - On Android, data is stored in a local Room (SQLite) database inside the app's private internal storage.
 
 The app does not transmit this data anywhere.
@@ -51,7 +51,7 @@ The contents and destination of an exported file are entirely under your control
 
 ## Backups
 
-On iOS, the app's data is included in iCloud Backup or Mac/iTunes encrypted backups according to Apple's standard rules for app sandbox data. The data is not synchronised separately by us.
+On iOS and iPadOS, the app's data is included in iCloud Backup or Mac/iTunes encrypted backups according to Apple's standard rules for app sandbox data. On macOS (Mac Catalyst), the app's data lives inside its Mac App Sandbox container and is included in your Mac's Time Machine backups if you have Time Machine enabled. The data is not synchronised separately by us.
 
 On Android, the app opts out of Google Auto Backup for Apps. The postcard database is not copied to Google's servers by the app, and Android cloud backup is disabled for Postcard Archive. To move or preserve your archive, use the in-app export and passphrase-protected encrypted backup tools that you control.
 

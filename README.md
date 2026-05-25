@@ -1,6 +1,6 @@
 # postcard-archive-policy
 
-Public privacy policy for **Postcard Archive** (iOS / iPadOS / Android).
+Public privacy policy for **Postcard Archive** (iOS / iPadOS / macOS / Android).
 
 Published at: **https://rizkcorsight.github.io/postcard-archive-policy/**
 
