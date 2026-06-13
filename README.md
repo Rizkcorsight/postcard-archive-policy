@@ -24,6 +24,17 @@ The root URL remains the canonical English policy. Localized convenience transla
 - 繁體中文: `https://rizkcorsight.github.io/postcard-archive-policy/zh-Hant/`
 - العربية: `https://rizkcorsight.github.io/postcard-archive-policy/ar/`
 - עברית: `https://rizkcorsight.github.io/postcard-archive-policy/he/`
+- Čeština: `https://rizkcorsight.github.io/postcard-archive-policy/cs/`
+- Dansk: `https://rizkcorsight.github.io/postcard-archive-policy/da/`
+- Suomi: `https://rizkcorsight.github.io/postcard-archive-policy/fi/`
+- हिन्दी: `https://rizkcorsight.github.io/postcard-archive-policy/hi/`
+- Bahasa Indonesia: `https://rizkcorsight.github.io/postcard-archive-policy/id/`
 - Nederlands: `https://rizkcorsight.github.io/postcard-archive-policy/nl/`
+- Norsk Bokmål: `https://rizkcorsight.github.io/postcard-archive-policy/nb/`
+- Polski: `https://rizkcorsight.github.io/postcard-archive-policy/pl/`
 - Русский: `https://rizkcorsight.github.io/postcard-archive-policy/ru/`
+- Svenska: `https://rizkcorsight.github.io/postcard-archive-policy/sv/`
+- ไทย: `https://rizkcorsight.github.io/postcard-archive-policy/th/`
+- Türkçe: `https://rizkcorsight.github.io/postcard-archive-policy/tr/`
+- Tiếng Việt: `https://rizkcorsight.github.io/postcard-archive-policy/vi/`
 <!-- policy-translations-end -->
