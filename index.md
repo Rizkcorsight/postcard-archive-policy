@@ -37,10 +37,10 @@ The app does not transmit this data anywhere.
 
 Postcard Archive Pro includes an optional map ("Places") that plots your postcards across the world. While that map is open — and only then — the app uses your device's network in two narrow ways:
 
-- **Map tiles.** The background map imagery is fetched from the OpenStreetMap tile servers. These requests carry only what any map request needs (the area being viewed and the app's identifier). They include no postcard data, no account, and nothing identifying you.
+- **Map tiles.** The background map imagery is fetched over the network while the map is open. On iOS, iPadOS, and macOS the tiles come from Apple Maps (MapKit); on Android they come from the OpenStreetMap tile servers. These requests carry only what any map request needs — the area being viewed — plus the ordinary network metadata every internet request includes (such as your device's IP address and a standard app/user-agent string, which the provider needs in order to deliver the imagery). They include no postcard data and no account.
 - **Place lookup (geocoding).** To drop a pin, the app asks your device's built-in geocoder to turn a place *name* you typed (for example, "Paris, France") into coordinates. On iOS, iPadOS, and macOS this is Apple's geocoder; on Android it is the operating system's geocoding service. Only that short place-name text is sent, only for cards you gave a location, and the resulting coordinates are cached on your device so the map then works offline.
 
-We run neither service and receive none of this traffic. No postcard images, notes, or personal details are transmitted. On Android the Places tab opens to an offline list by default, so the map — and any network use — happens only if you choose to open it; if you never open the map, the app makes no network requests at all. Map tiles and geocoding are handled by Apple, the OpenStreetMap Foundation, or your Android system geocoder under their own terms.
+We run none of these services and receive none of this traffic. No postcard images, notes, or personal details are transmitted. On Android the Places tab opens to an offline list by default, so the map — and any network use — happens only if you choose to open it; if you never open the map, the app makes no network requests at all. Map tiles and geocoding are handled by Apple, the OpenStreetMap Foundation, or your Android system geocoder under their own terms.
 
 ## Photos and camera permission
 
