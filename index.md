@@ -5,7 +5,7 @@ title: Postcard Archive — Privacy Policy
 
 # Privacy Policy — Postcard Archive
 
-**Effective date:** 2026-05-25
+**Effective date:** 2026-06-15
 
 <!-- policy-translations-start -->
 ## Translations
@@ -22,7 +22,7 @@ Postcard Archive is an offline, private archival app for postcard collectors. Th
 
 **Nothing.** Postcard Archive has no user accounts, no cloud sync, no analytics, no advertising, no crash reporters that transmit data, and no tracking of any kind.
 
-The app does not contact any server we control. It does not contact any third-party server. It does not need an internet connection to function.
+The app has no server of our own, and it sends nothing about you to us. Its core archival features work fully offline. The one optional exception is the Pro map described under *Maps and geocoding* below.
 
 ## What stays on your device
 
@@ -32,6 +32,15 @@ Every postcard you add to Postcard Archive — including the front and back imag
 - On Android, data is stored in a local Room (SQLite) database inside the app's private internal storage.
 
 The app does not transmit this data anywhere.
+
+## Maps and geocoding
+
+Postcard Archive Pro includes an optional map ("Places") that plots your postcards across the world. While that map is open — and only then — the app uses your device's network in two narrow ways:
+
+- **Map tiles.** The background map imagery is fetched from the OpenStreetMap tile servers. These requests carry only what any map request needs (the area being viewed and the app's identifier). They include no postcard data, no account, and nothing identifying you.
+- **Place lookup (geocoding).** To drop a pin, the app asks your device's built-in geocoder to turn a place *name* you typed (for example, "Paris, France") into coordinates. On iOS, iPadOS, and macOS this is Apple's geocoder; on Android it is the operating system's geocoding service. Only that short place-name text is sent, only for cards you gave a location, and the resulting coordinates are cached on your device so the map then works offline.
+
+We run neither service and receive none of this traffic. No postcard images, notes, or personal details are transmitted. On Android the Places tab opens to an offline list by default, so the map — and any network use — happens only if you choose to open it; if you never open the map, the app makes no network requests at all. Map tiles and geocoding are handled by Apple, the OpenStreetMap Foundation, or your Android system geocoder under their own terms.
 
 ## Photos and camera permission
 
