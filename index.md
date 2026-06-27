@@ -5,7 +5,7 @@ title: Postcard Archive — Privacy Policy
 
 # Privacy Policy — Postcard Archive
 
-**Effective date:** 2026-06-15
+**Effective date:** 2026-06-27
 
 <!-- policy-translations-start -->
 ## Translations
@@ -14,6 +14,14 @@ Translations are provided for convenience. The English policy controls if there 
 
 [Español](es/) | [Français](fr/) | [Deutsch](de/) | [Italiano](it/) | [日本語](ja/) | [한국어](ko/) | [Português (Brasil)](pt-BR/) | [简体中文](zh-Hans/) | [繁體中文](zh-Hant/) | [العربية](ar/) | [עברית](he/) | [Nederlands](nl/) | [Русский](ru/)
 <!-- policy-translations-end -->
+<!-- store-audit-2026-06-27-start -->
+## Store Listing Alignment
+
+**Checked 2026-06-27.** This page was compared with the public App Store and Google Play listings. Where a store privacy or data-safety label was visible, it said the developer does not collect user data.
+
+**Accurate app behavior:** Archive entries, photos, OCR/transcriptions, captions, dates, locations, stamp notes, backups, and exports stay local. The optional Places map may contact Apple Maps, OpenStreetMap, or the OS geocoder only for map tiles or place lookup; store systems handle purchase, restore, refund, receipt, or price display. No accounts, ads, analytics, tracking, or developer backend are used.
+<!-- store-audit-2026-06-27-end -->
+
 **Applies to:** Postcard Archive for iOS / iPadOS / macOS (Mac Catalyst) and Postcard Archive for Android.
 
 Postcard Archive is an offline, private archival app for postcard collectors. This policy explains, plainly, what we do and do not collect.
@@ -41,6 +49,10 @@ Postcard Archive Pro includes an optional map ("Places") that plots your postcar
 - **Place lookup (geocoding).** To drop a pin, the app asks your device's built-in geocoder to turn a place *name* you typed (for example, "Paris, France") into coordinates. On iOS, iPadOS, and macOS this is Apple's geocoder; on Android it is the operating system's geocoding service. Only that short place-name text is sent, only for cards you gave a location, and the resulting coordinates are cached on your device so the map then works offline.
 
 We run none of these services and receive none of this traffic. No postcard images, notes, or personal details are transmitted. On Android the Places tab opens to an offline list by default, so the map — and any network use — happens only if you choose to open it; if you never open the map, the app makes no network requests at all. Map tiles and geocoding are handled by Apple, the OpenStreetMap Foundation, or your Android system geocoder under their own terms.
+
+## Purchases
+
+If you choose Postcard Archive Pro or Full Access, Apple StoreKit or Google Play Billing handles the one-time unlock, restore, refund, receipt verification, and localized price display. We receive only the entitlement status needed to unlock features. We do not receive your payment card, billing address, Apple ID, Google account details, or store receipt contents, and no postcard images, notes, locations, or archive data are involved in the purchase.
 
 ## Photos and camera permission
 
