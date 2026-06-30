@@ -30,7 +30,7 @@ Postcard Archive is an offline, private archival app for postcard collectors. Th
 
 **Nothing.** Postcard Archive has no user accounts, no cloud sync, no analytics, no advertising, no crash reporters that transmit data, and no tracking of any kind.
 
-The app has no server of our own, and it sends nothing about you to us. Its core archival features work fully offline. The one optional exception is the Pro map described under *Maps and geocoding* below.
+The app has no server of our own, and it sends nothing about you to us. Its core archival features work fully offline. The only optional exception is the Pro map described under *Maps and geocoding* below.
 
 ## What stays on your device
 
