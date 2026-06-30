@@ -5,7 +5,7 @@ title: Postcard Archive — Privacy Policy
 
 # Privacy Policy — Postcard Archive
 
-**Effective date:** 2026-06-27
+**Effective date:** 2026-06-29
 
 <!-- policy-translations-start -->
 ## Translations
@@ -14,13 +14,13 @@ Translations are provided for convenience. The English policy controls if there 
 
 [Español](es/) | [Français](fr/) | [Deutsch](de/) | [Italiano](it/) | [日本語](ja/) | [한국어](ko/) | [Português (Brasil)](pt-BR/) | [简体中文](zh-Hans/) | [繁體中文](zh-Hant/) | [العربية](ar/) | [עברית](he/) | [Nederlands](nl/) | [Русский](ru/)
 <!-- policy-translations-end -->
-<!-- store-audit-2026-06-27-start -->
+<!-- store-audit-2026-06-29-start -->
 ## Store Listing Alignment
 
-**Checked 2026-06-27.** This page was compared with the public App Store and Google Play listings. Where a store privacy or data-safety label was visible, it said the developer does not collect user data.
+**Checked 2026-06-29.** This page was compared with the public App Store and Google Play listings. Where a store privacy or data-safety label was visible, it said the developer does not collect user data.
 
-**Accurate app behavior:** Archive entries, photos, OCR/transcriptions, captions, dates, locations, stamp notes, backups, and exports stay local. The optional Places map may contact Apple Maps, OpenStreetMap, or the OS geocoder only for map tiles or place lookup; store systems handle purchase, restore, refund, receipt, or price display. No accounts, ads, analytics, tracking, or developer backend are used.
-<!-- store-audit-2026-06-27-end -->
+**Accurate app behavior:** Archive entries, photos, OCR/transcriptions, captions, dates, locations, stamp notes, and exports stay local. The optional Places map may contact Apple Maps, OpenStreetMap, or the OS geocoder only for map tiles or place lookup; store systems handle purchase, restore, refund, receipt, or price display. No accounts, ads, analytics, tracking, or developer backend are used.
+<!-- store-audit-2026-06-29-end -->
 
 **Applies to:** Postcard Archive for iOS / iPadOS / macOS (Mac Catalyst) and Postcard Archive for Android.
 
@@ -66,15 +66,13 @@ You can deny or revoke these permissions at any time in your operating system's 
 
 You can export your archive as a CSV or JSON file from the app's Settings screen. The exported file is written to a local temporary location on your device and offered to you through the system share sheet, where you choose the destination (Files, AirDrop, Mail, another app, etc.).
 
-Postcard Archive Pro can also create a full archive backup file for your own safekeeping. On Android, this backup is a passphrase-protected encrypted `.pcabak` file. The passphrase is chosen by you and is not sent to us. If you share or store that backup elsewhere, that destination's privacy and security practices apply.
-
 The contents and destination of an exported file are entirely under your control. We do not see what you export or where you send it.
 
 ## Backups
 
 On iOS and iPadOS, the app's data is included in iCloud Backup or Mac/iTunes encrypted backups according to Apple's standard rules for app sandbox data. On macOS (Mac Catalyst), the app's data lives inside its Mac App Sandbox container and is included in your Mac's Time Machine backups if you have Time Machine enabled. The data is not synchronised separately by us.
 
-On Android, the app opts out of Google Auto Backup for Apps. The postcard database is not copied to Google's servers by the app, and Android cloud backup is disabled for Postcard Archive. To move or preserve your archive, use the in-app export and passphrase-protected encrypted backup tools that you control.
+On Android, the app opts out of Google Auto Backup for Apps. The postcard database is not copied to Google's servers by the app, and Android cloud backup is disabled for Postcard Archive. To move or preserve your archive, use the in-app export files that you control.
 
 ## Children's privacy
 
