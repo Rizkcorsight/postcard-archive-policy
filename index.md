@@ -3,6 +3,11 @@ layout: default
 title: Postcard Archive — Privacy Policy
 ---
 
+<!-- store-access-2026-07-15-start -->
+> **Store access and purchases — updated July 15, 2026:** Postcard Archive is free to download and includes a local 3-day full-access trial. After the trial, continued access requires one one-time unlock at the price displayed by Apple App Store or Google Play. There is no subscription, automatic renewal, or recurring charge. [Read this disclosure in every supported language](store-access.html).
+<!-- store-access-2026-07-15-end -->
+
+
 # Privacy Policy — Postcard Archive
 
 **Effective date:** 2026-06-29
@@ -52,7 +57,7 @@ We run none of these services and receive none of this traffic. No postcard imag
 
 ## Purchases
 
-If you choose Postcard Archive Pro or Full Access, Apple StoreKit or Google Play Billing handles the one-time unlock, restore, refund, receipt verification, and localized price display. We receive only the entitlement status needed to unlock features. We do not receive your payment card, billing address, Apple ID, Google account details, or store receipt contents, and no postcard images, notes, locations, or archive data are involved in the purchase.
+Postcard Archive is free to download with a local 3-day full-access trial. After the trial, if you choose Postcard Archive Pro or Full Access, Apple StoreKit or Google Play Billing handles the one-time unlock, restore, refund, receipt verification, and localized price display. We receive only the entitlement status needed to unlock features. We do not receive your payment card, billing address, Apple ID, Google account details, or store receipt contents, and no postcard images, notes, locations, or archive data are involved in the purchase.
 
 ## Photos and camera permission
 
