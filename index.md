@@ -3,6 +3,13 @@ layout: default
 title: Postcard Archive — Privacy Policy
 ---
 
+<!-- privacy-localizations-2026-07-29-start -->
+<aside style="margin:16px auto;padding:13px 15px;max-width:920px;border:1px solid #9cb2a9;border-radius:12px">
+<strong>Privacy policy translations:</strong> <a href="privacy/languages.html">Read this policy in every language offered by the Apple App Store or Google Play listing.</a>
+</aside>
+<!-- privacy-localizations-2026-07-29-end -->
+
+
 <!-- store-access-2026-07-15-start -->
 > **Store access and purchases — updated July 15, 2026:** Postcard Archive is free to download and includes a local 3-day full-access trial. After the trial, continued access requires one one-time unlock at the price displayed by Apple App Store or Google Play. There is no subscription, automatic renewal, or recurring charge. [Read this disclosure in every supported language](store-access.html).
 <!-- store-access-2026-07-15-end -->
