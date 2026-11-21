@@ -17,7 +17,7 @@ title: Postcard Archive — Privacy Policy
 
 # Privacy Policy — Postcard Archive
 
-**Effective date:** 2026-07-21
+**Updated:** November 21, 2026
 
 <!-- policy-translations-start -->
 ## Translations
@@ -29,9 +29,9 @@ Translations are provided for convenience. The English policy controls if there 
 <!-- store-audit-2026-06-29-start -->
 ## Store Listing Alignment
 
-**Checked 2026-07-21.** This page was compared with the public App Store and Google Play listings. The Google Play Data Safety declaration is being corrected to disclose the limited technical metrics processed by the bundled Google ML Kit SDK on Android.
+This policy covers the Apple and Android editions. Google ML Kit processes limited technical metrics on Android as described below.
 
-**Accurate app behavior:** Archive entries, photos, OCR/transcriptions, captions, dates, locations, stamp notes, and exports stay local. The optional Places map may contact Apple Maps, OpenStreetMap, or the OS geocoder for map tiles or place lookup; store systems handle purchase, restore, refund, receipt, or price display. On Android, Google ML Kit processes OCR on-device and receives limited technical diagnostics and usage metrics. No accounts, ads, tracking, developer-operated analytics, or developer backend are used.
+**Accurate app behavior:** Archive entries, photos, OCR/transcriptions, captions, dates, locations and stamp notes are stored locally. If you export an archive, the destination you choose receives the selected data and images. The optional Places map may contact Apple Maps, OpenStreetMap, or the OS geocoder for map tiles or place lookup; store systems handle purchase, restore, refund, receipt, or price display. On Android, Google ML Kit processes OCR on-device and receives limited technical diagnostics and usage metrics. No accounts, ads, tracking, developer-operated analytics, or developer backend are used.
 <!-- store-audit-2026-06-29-end -->
 
 **Applies to:** Postcard Archive for iOS / iPadOS / macOS (Mac Catalyst) and Postcard Archive for Android.
@@ -40,7 +40,7 @@ Postcard Archive is an offline-first, private archival app for postcard collecto
 
 ## What we collect
 
-**We collect nothing.** Postcard Archive has no user accounts, no cloud sync, no advertising, no tracking, and no analytics or crash-reporting service operated by us.
+**We do not collect your postcard collection.** Postcard Archive has no user accounts, no cloud sync, no advertising, no tracking, and no analytics or crash-reporting service operated by us.
 
 The app has no server of our own, and it sends nothing about you to us. Its core archival features work fully offline. Network access is limited to the optional Full Access map, the platform purchase service, and Google ML Kit's technical diagnostics on Android, as described below.
 
@@ -51,7 +51,7 @@ Every postcard you add to Postcard Archive — including the front and back imag
 - On iOS, iPadOS, and macOS (Mac Catalyst), data is stored in a local SwiftData store inside the app's sandbox.
 - On Android, data is stored in a local Room (SQLite) database inside the app's private internal storage.
 
-The app does not transmit this data anywhere.
+The developer does not receive your postcard archive. Optional place lookup and user-directed exports are described below.
 
 ## Maps and geocoding
 
@@ -84,7 +84,7 @@ You can deny or revoke these permissions at any time in your operating system's 
 
 ## Exports
 
-You can export your archive as a CSV or JSON file from the app's Settings screen. The exported file is written to a local temporary location on your device and offered to you through the system share sheet, where you choose the destination (Files, AirDrop, Mail, another app, etc.).
+On Apple and Android, a complete export creates an unencrypted ZIP containing CSV or JSON metadata and the referenced front and back postcard images. A trade sheet can contain records and images from the selected tradeable or duplicate subset. The app prepares the file locally. If you share it, the recipient, app or file provider you choose can read and retain its contents. Check the images and metadata before sharing an archive.
 
 The contents and destination of an exported file are entirely under your control. We do not see what you export or where you send it.
 
@@ -92,7 +92,7 @@ The contents and destination of an exported file are entirely under your control
 
 On iOS, device-level copies follow Apple's standard rules for app sandbox data. The data is not synchronised separately by us.
 
-On Android, the app sets `android:allowBackup="false"`: the postcard database is not copied to Google's servers and is excluded from device-transfer. Your collection stays on the device. To move or preserve a copy of it, use the in-app Postcard Archive Full Access CSV/JSON export tool, which you control entirely.
+On Android, the app sets `android:allowBackup="false"`: the postcard database is not copied to Google's servers and is excluded from device-transfer. To keep or move a copy, use the in-app export tool. Delete exported copies separately at their destinations.
 
 ## Children's privacy
 
